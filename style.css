@@ -14,8 +14,7 @@ MYSTERY_MAN{
     color: rgb(255, 255, 255);
 }
 .prop{
-    position:absolute;
-    margin-left: 40%;
+    position:absolute:
     display: inline-block;
     text-decoration: white;
     font-size: 150%;
