@@ -2,6 +2,10 @@ body{
   background-color: black;
     margin-top: 5%;
 }
+h1{
+  color: black;
+  font-size: 0%;
+  }
 main{
     background-color: black;
     margin-top: 2%;
